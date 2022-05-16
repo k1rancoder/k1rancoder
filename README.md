@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @k1rancoder
 - 👀 I’m interested in ... Python , Machine Learning and Artifical intellegence
-- 🌱 I’m currently learning ... Python in ML
-- 💞️ I’m looking to collaborate on ... 
+- 🌱 I’m currently learning ... Python , ML , AI
 - 📫 How to reach me ... Vadisala.kiran@gmail.com
 
 <!---

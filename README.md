@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @k1rancoder
-- 👀 I’m interested in ... Python , Machine Learning and Artifical intellegence
-- 🌱 I’m currently learning ... Python , ML , AI
+- 👀 I’m interested in ... Python , Data Science and Full stack Development with UI&UX
+- 🌱 I’m currently learning ... Python , Full stack Development
 - 📫 How to reach me ... Vadisala.kiran@gmail.com
 
 <!---

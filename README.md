@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @k1rancoder
-- 👀 I’m interested in ... Python , Data Science and Full stack Development with UI&UX
+- 👀 I’m interested in ... Python , Data Analyst and Full stack Development with UI&UX
 - 🌱 I’m currently learning ... Python , Full stack Development
 - 📫 How to reach me ... Vadisala.kiran@gmail.com
 
